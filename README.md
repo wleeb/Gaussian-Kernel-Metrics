@@ -1,0 +1,14 @@
+
+Installation instructions:
+
+- The user should install the FINUFFT Python package, available from
+https://finufft.readthedocs.io/en/latest/
+
+- The test code can be run using the script ``gk2d'',
+which calls the function main() from within gk2d.py.
+
+- Documentation on the relevant functions in the Python file
+is contained within the file gk2d.py, after the test code.
+Documentation for each user-callable function is contained
+after the function declaration.
+
