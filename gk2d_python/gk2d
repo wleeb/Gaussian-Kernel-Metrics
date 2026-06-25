@@ -1,0 +1,3 @@
+#!/home/william/anaconda3/bin/python
+from gk2d import *
+main()
